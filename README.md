@@ -1,5 +1,5 @@
 # OML p2 update site
-This is the composite p2 update site(s) of OML. Choose the site URL that best suits your use case.
+This is the composite p2 update site(s) of [OML](https://github.com/opencaesar/oml). Choose the site URL that best suits your use case.
 
 - `https://opencaesar.github.io/oml-p2`
 
