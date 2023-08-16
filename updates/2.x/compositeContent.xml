@@ -2,12 +2,13 @@
 <?compositeMetadataRepository version='1.0.0'?>
 <repository name='&quot;OML Repository&quot; 2.x' type='org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepository' version='1.0.0'>
   <properties size='2'>
-    <property name='p2.timestamp' value='1692088375466'/>
+    <property name='p2.timestamp' value='1692145709093'/>
     <property name='p2.atomic.composite.loading' value='false'/>
   </properties>
-  <children size='3'>
+  <children size='4'>
     <child location='2.0.x'/>
     <child location='2.1.x'/>
     <child location='2.2.x'/>
+    <child location='2.3.x'/>
   </children>
 </repository>
